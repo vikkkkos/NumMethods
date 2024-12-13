@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\bin\Debug\lab3_dirichle_mvr.exe.config
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\bin\Debug\lab3_dirichle_mvr.exe
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\bin\Debug\lab3_dirichle_mvr.pdb
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.exe
+C:\Users\User\OneDrive\Рабочий стол\3\lab3_dirichle_mvr\lab3_dirichle_mvr\obj\Debug\lab3_dirichle_mvr.pdb
